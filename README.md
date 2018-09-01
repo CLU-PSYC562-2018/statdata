@@ -1,2 +1,3 @@
 # statdata
-Data for the Class
+
+Here you'll find all the data for the class. 
